@@ -38,65 +38,37 @@
   </head>
 <div class=" bg-top navbar-light" style="width: 100% !important;";>
     <div class="container" style="width: 100% !important;">
-        <div class="row no-gutters d-flex align-items-center align-items-stretch">
-            <div class="col-md-4 d-flex align-items-center py-4">
+        <div class="row no-gutters align-items-center">
+            <div class="col-md-12 align-items-center py-4" >
 
                 <a href="./index.php" >
-                    <img src="./images/logo.png" style="width: 100px; height: 100px" >
+                    <img src="./images/logo.png" style="width: 100px; height: 100px; display:block; margin-left:auto; margin-right:auto" >
                 </a>
+                <h1 align="center">Maraka Secondary School</h1>
             </div>
-            <div class="col-md-8 d-block">
-                <div class="row d-flex">
-                    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
-                        <div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-                        <div class="text">
-                            <span>Email</span>
-                            <span>marakasecondaryschool</span>
-                        </div>
-                    </div>
-                    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
-                        <div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-                        <div class="text">
-                            <span>Call</span>
-                            <span>Call Us: 066 366 61 26</span>
-                        </div>
-                    </div>
-<!--                    <div class="col-md topper d-flex align-items-center justify-content-end">-->
-<!--                        <p class="mb-0">-->
-<!--                            <a href="#" class="btn py-2 px-3 btn-primary d-flex align-items-center justify-content-center">-->
-<!--                                <span>Grade 1 Admission</span>-->
-<!--                            </a>-->
-<!--                        </p>-->
-<!--                    </div>-->
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
-    <div class="container d-flex align-items-center px-4">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar" >
+    <div class="container d-flex align-items-center px-4" >
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
         </button>
-        <form action="#" class="searchform order-lg-last">
-            <div class="form-group d-flex">
-                <input type="text" class="form-control pl-3" placeholder="Search">
-                <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
-            </div>
-        </form>
-        <div class="collapse navbar-collapse" id="ftco-nav">
+        <div class="collapse navbar-collapse" id="ftco-nav" style="margin-left: 90px">
             <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
                 <li id="hometab" class="nav-item dropdown active">
-                    <a class="nav-link dropdown-toggle" href="../index.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Home
+                    <a class="nav-link dropdown-toggle" href="index.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About us
                     </a>
                   <div class="dropdown-menu" >
                       <a class="dropdown-item" href="#section-counter" class="nav-link pl-0">About Us</a>
                       <a class="dropdown-item" href="#section-vision" class="nav-link pl-0">Our Vision & Mission</a>
                       <a class="dropdown-item" href="" class="nav-link pl-0">Motto & Crest</a>
-                      <a class="dropdown-item" href="#snthom" class="nav-link pl-0">School Antunm </a>
+                      <a class="dropdown-item" href="#snthom" class="nav-link pl-0">School Anthem </a>
                   </div>
                 </li>
 

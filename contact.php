@@ -67,10 +67,12 @@ include "include/header.php";
                     </div>
                 </form>
             </div>
-<!--            <div class="col-md-6 d-flex align-items-stretch">-->
-<!--                <div id="map"></div>-->
-<!--            </div>-->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1017.6933007196856!2d80.95852610856531!3d7.587379696108236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae4ae694bc71477%3A0x69fd5ef18a56c7a3!2sMaraka%20Navodya%20Maha%20Vidyalaya!5e0!3m2!1sen!2slk!4v1578802972530!5m2!1sen!2slk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+           <div class="col-md-6 d-flex align-items-stretch">
+               <div id="map">
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1017.6933007196856!2d80.95852610856531!3d7.587379696108236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae4ae694bc71477%3A0x69fd5ef18a56c7a3!2sMaraka%20Navodya%20Maha%20Vidyalaya!5e0!3m2!1sen!2slk!4v1578802972530!5m2!1sen!2slk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+               </div>
+           </div>
+           
         </div>
     </div>
 </section>
