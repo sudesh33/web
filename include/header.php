@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
+    <style>
        .dropdown-item:hover {
            color: #fd5f00 !important;
         }
@@ -14,6 +14,7 @@
 
     </style>
     <title>Maraka Secondary School</title>
+    <link rel="icon" href="images/logo.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
